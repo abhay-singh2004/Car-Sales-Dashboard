@@ -70,16 +70,8 @@ This dashboard helps stakeholders make **data-driven business decisions** by ide
 
 ## 🖼 Dashboard Preview
 
-> Add your screenshots inside a folder named `/images` and link them like below:
+<img width="1778" height="853" alt="Screenshot 2026-02-14 230419" src="https://github.com/user-attachments/assets/7c2243b9-5b21-43c8-ad8b-376a600dec64" />
 
-```markdown
-<img width="1778" height="853" alt="Screenshot 2026-02-14 230419" src="https://github.com/user-attachments/assets/beab4aa1-76ce-4fdf-96ba-9e175d361183" />
-
-<img width="1901" height="952" alt="Screenshot 2026-02-14 230323" src="https://github.com/user-attachments/assets/c339dd29-8f7c-4b76-a264-a1d400d06474" />
-
-<img width="1900" height="942" alt="Screenshot 2026-02-14 230537" src="https://github.com/user-attachments/assets/0cace0a5-6730-42b7-ab8e-cda26c61c71d" />
-
-```
 
 ---
 
